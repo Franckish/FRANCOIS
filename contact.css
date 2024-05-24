@@ -1,0 +1,168 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #ccc
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #272727;
+    color: white;
+
+}
+span{
+    color: #1866afe1;
+}
+.menu{
+    margin-right: 60px;
+
+}
+.menu a{
+    margin-right: 30px;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 800;
+}
+.menu a:hover{
+    color:#7fa9d1e1;
+    padding: 5px;
+    border-bottom: 2px solid #7fa9d1e1;
+    border-top: 2px solid #7fa9d1e1;
+}
+
+nav#es{
+    width: 900px;
+    height: 400px;
+    background-color: rgb(64, 124, 121);
+    background-repeat: no-repeat;
+    padding: 25px;
+    margin-top: 25px;
+    margin-left: 150px;
+    border-radius: 2%;
+}
+nav#es{
+    text-align: right;
+}
+article#com{
+    text-align: left;
+}
+
+div#fo{
+    width: 200px;
+    height: 150px;
+    background-color: #0894cc;
+    background-repeat: no-repeat;
+    padding: 20px;
+    margin-top: -370px;
+    margin-left: -20px;
+    color: white;
+    border-radius: 20%;
+}
+nav ul{
+    float: right;
+    padding-top: -500px;
+}
+nav li{
+    display: nline-block;
+    list-style: none;
+}
+nav li a{
+    font-weight: bold;
+    font-size: 15px;
+    text-transform:capitalize;
+    color: black;
+    text-decoration: none;
+    padding: 30px;
+    margin-top: -1px;
+
+}
+nav li a:hover{
+    color: #08ccb3;
+    transition: all 0.4s ease 0%;
+}
+a#r{
+    background-color: #08ccb3;
+    border-radius: 2%;
+}
+span{
+    color: #08ccb3;
+}
+h1{
+    font-family: "MV Boli";
+    padding-left: 50px;
+}
+nav h2{
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 30px;
+    word-spacing: 5px;
+    padding-right: 100px;
+    font-weight: bold;
+}
+nav#ch{
+    margin-left: 30px;
+    padding-left: 300px;
+}
+nav#ch p{
+    font-family: "Times New Roman";
+    font-size: 14px;
+    padding-right: 250px;
+    padding-right: 250px;
+    text-justify: auto;
+    text-align: center;
+}
+nav#tt input{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+nav#tt textarea#area{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border: bottom 8px;
+    border-bottom-width: 2px;
+    border-bottom-color: #08ccb3;
+}
+nav#tt{
+    text-align: center;
+}
+nav#tt textarea{
+    padding-left: 10px;
+    margin-left: 300px;
+}
+nav#tt button{
+    background-color: #08ccb3;
+    border: none;
+    border-radius: 1%;
+    color: white;
+    margin-top: 10px;
+}
+label.b{
+    color: #08ccb3;
+}
+label.c{
+    margin-left: 700px;
+    margin-top: 500px;
+}
+input.o{
+    margin-left: 700px;
+}
+div#fo{
+    text-align: center;
+}
+ul.p{
+    list-style-type:square;
+    float: left;
+    line-height: 30px;
+}
+
+
+
+
+
